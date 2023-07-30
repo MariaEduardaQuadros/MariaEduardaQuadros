@@ -1,7 +1,9 @@
 ### Olá, eu sou a Maria Eduarda de Quadros!!
  🚀 Atualmente estou aprendendo os primeiros passos da programação
+
+ Faço análise e desenvolvimento de sistemas na PUCRS- online.
  
- 💬 Entre em contato comigo pelo email: mariaeduardadequadros62@gmail.com
+ 💬 Entre em contato comigo pelo email: mariaeduardaquadros62@gmail.com
 
 
 <div align="center">
