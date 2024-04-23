@@ -1,7 +1,7 @@
 ### Olá, eu sou a Maria Eduarda de Quadros!!
  🚀 Atualmente estou aprendendo os primeiros passos da programação
 
- 🎓 Faço graduaçãoo em Análise e Desenvolvimento de Sistemas na PUCRS- online.
+ 🎓 Faço graduação em Análise e Desenvolvimento de Sistemas na PUCRS- online.
  
  Também curso Banco de Dados na mesma instituição.
  
