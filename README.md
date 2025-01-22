@@ -2,8 +2,7 @@
  🚀 Atualmente estou aprendendo os primeiros passos da programação
 
  🎓 Faço graduação em Análise e Desenvolvimento de Sistemas na PUCRS- online.
- 
- Também curso Banco de Dados na mesma instituição.
+
  
  💬 Entre em contato comigo pelo email: mariaeduardaquadros62@gmail.com
 
