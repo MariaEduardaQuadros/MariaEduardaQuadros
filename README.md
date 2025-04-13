@@ -16,8 +16,11 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Maria-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/d5d14d97bb206b66e4eb347e46bd9f5a.gif" >
+  <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Maria-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Maria-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/d5d14d97bb206b66e4eb347e46bd9f5a.gif">
 </div>
+
 
   ##
 
