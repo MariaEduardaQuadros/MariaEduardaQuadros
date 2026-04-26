@@ -1,5 +1,6 @@
 ### Olá, eu sou a Maria Eduarda!!
- 🎓 Faço graduação em Análise e Desenvolvimento de Sistemas na PUCRS- online.
+ 🎓 Formada em Análise e Desenvolvimento de Sistemas na PUCRS.
+ ⏳ Cursando Engenharia de Software na UDESC - CEAVI.
 
  
  💬 Entre em contato comigo pelo email: mariaeduardaquadros62@gmail.com
