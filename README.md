@@ -1,5 +1,7 @@
 ### Olá, eu sou a Maria Eduarda!!
  🎓 Formada em Análise e Desenvolvimento de Sistemas na PUCRS.
+
+ 
  ⏳ Cursando Engenharia de Software na UDESC - CEAVI.
 
  
